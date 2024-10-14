@@ -1,0 +1,321 @@
+
+‹
+java:S1192Æ"IDefine a constant instead of duplicating this literal "password" 8 times.(­á«œøÿÿÿÿJ$4fcb548a-ac79-42ca-b9fa-36b1bbb1c25d
+¯
+java:S1192…"mDefine a constant instead of duplicating this literal "com.microsoft.sqlserver.jdbc.SQLServerDriver" 4 times.(ìè©‡úÿÿÿÿJ$5e775f43-a89f-45e5-a1f1-48b23355b949
+”
+java:S1192‡"RDefine a constant instead of duplicating this literal "jdbc:sqlserver://" 4 times.(·ƒ›ÂøÿÿÿÿJ$194f0da4-66a3-43e6-8c4a-51dafd6ca8f5
+„
+java:S1192r"HDefine a constant instead of duplicating this literal "Tahoma" 36 times.(ÏªÛ„J$4acdc8a7-2ff8-4a94-9c3c-e34d66489b5f
+
+java:S1192»"MDefine a constant instead of duplicating this literal "--incognito" 13 times.(÷à¿ıÿÿÿÿJ$9c93ee81-3915-4524-ba2e-095714ed798b
+ˆ
+java:S1192Ü"FDefine a constant instead of duplicating this literal "email" 3 times.(«ÏàøÿÿÿÿJ$923cacdf-95da-4abc-bd7d-41baa4f53b6e
+Ç
+java:S1192¹"‰Define a constant instead of duplicating this literal "C:\\Program Files\\BraveSoftware\\Brave-Browser\\Application\\brave.exe" 13 times.(¡’û˜J$4d11d9d6-b35a-449e-ac6a-e259feceabf4
+‹
+java:S1192³"IDefine a constant instead of duplicating this literal "Password" 3 times.(Ú®„ûÿÿÿÿJ$5362d988-9907-4065-953b-9fbee59f9797
+¨
+java:S1192ˆ"lDefine a constant instead of duplicating this literal "databaseName=Pelates;user=sa;password=admin" 4 times.(‚™”vJ$8aa24e34-796e-4f94-96ce-a0a49233f365
+†
+java:S1192Ä"IDefine a constant instead of duplicating this literal "username" 7 times.(®Ş J$c29c86e8-1625-40df-95d2-bbacd2352cbe
+’	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õ§àƒúÿÿÿÿJ$1477b0f0-1a2c-492e-8d88-f609bfb3e419
+’	java:S117Î"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(õ âµûÿÿÿÿJ$447cc81d-2e72-41f3-876e-0094fec2d8fb
+’	java:S117¤
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶—ìÓøÿÿÿÿJ$da85e7ca-55b4-47aa-911d-e2f5c61dbe16
+	java:S117»
+"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(äÕÿÛJ$74fedb52-89dc-4d85-af3d-58bf269115b3
+e
+java:S1604ª"(Make this anonymous inner class a lambda(Öæˆ€J$3af6ee76-1556-4cfc-b676-5e55d435065c
+j
+java:S1604¸"(Make this anonymous inner class a lambda(–ÉÑºıÿÿÿÿJ$ac46186f-5400-4447-b31d-176dd082312e
+j
+java:S1604À"(Make this anonymous inner class a lambda(ƒÜÎØÿÿÿÿÿJ$a17c4e98-05de-4b1a-ba80-4f5c1e9a4528
+e
+java:S1604Ê"(Make this anonymous inner class a lambda(ŠÚ»¨J$969d6169-f259-4d42-b4b8-48ea5ecee60b
+e
+java:S1604Ö"(Make this anonymous inner class a lambda(Î––êJ$133b42e8-efc2-4831-941a-e4255136c25f
+j
+java:S1604â"(Make this anonymous inner class a lambda(¬µÉùûÿÿÿÿJ$99bc893f-5192-46d5-ab53-712e274c38f0
+j
+java:S1604ê"(Make this anonymous inner class a lambda(…ÛŒşùÿÿÿÿJ$7f4a2ee8-4827-4d86-abc7-f9097850c747
+e
+java:S1604÷"(Make this anonymous inner class a lambda(¯í‹ÄJ$c0053209-4485-4982-9157-013f17f95244
+e
+java:S1604ÿ"(Make this anonymous inner class a lambda(õÏµÆJ$afddfdd1-70ec-4426-87f7-e1a2f405c86a
+j
+java:S1604"(Make this anonymous inner class a lambda(İê¢¦úÿÿÿÿJ$d0c27170-9952-417a-acee-abb0d9a41c03
+j
+java:S1604—"(Make this anonymous inner class a lambda(˜íôÑûÿÿÿÿJ$3fee64ba-2e19-4579-a1a5-04c27dcacee5
+e
+java:S1604Ğ"(Make this anonymous inner class a lambda(Ë×¸J$4518bfbc-2696-4335-90fa-a4ab83f5a5e8
+e
+java:S1604à"(Make this anonymous inner class a lambda( ÆÔ¦J$54f8f8b2-8135-4660-9da4-d64ba422e49e
+e
+java:S1604ğ"(Make this anonymous inner class a lambda(È„ûJ$666b17a3-1077-48bf-9b02-5df4538cbb44
+j
+java:S1604ø"(Make this anonymous inner class a lambda(Ì¸ä’úÿÿÿÿJ$be0b68a7-f35b-4819-92c0-d4e646cd46ff
+j
+java:S1604€"(Make this anonymous inner class a lambda(Œ½£“ùÿÿÿÿJ$a194b69d-da17-477c-96e9-fd9eae1007ed
+d
+java:S1604ˆ"(Make this anonymous inner class a lambda(ø–Ê^J$4e28e0f3-c1b3-4789-a26e-056170681d5b
+j
+java:S1604•"(Make this anonymous inner class a lambda(êïÃÍıÿÿÿÿJ$9d97b42b-770b-4f8b-94ac-b48d100e7cbc
+e
+java:S1604‘"(Make this anonymous inner class a lambda(Ù„åÛJ$dbee294f-241a-4842-ae35-615b6a19f975
+j
+java:S1604œ
+"(Make this anonymous inner class a lambda(¨í¡§úÿÿÿÿJ$4265a15c-b6f8-47de-9e0f-d0797e36921f
+	java:S101#"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ì¬¹ûÿÿÿÿJ$486a75ce-c1e8-4d09-802e-0a99931b07ad
+‰
+java:S2095"GUse try-with-resources or close this "Statement" in a "finally" clause.(í…³şÿÿÿÿJ$e3792c01-0899-4494-b41b-588920699362
+“
+java:S1450™"VRemove the "btnAfm1" field and declare it as a local variable in the relevant methods.(ûš†ÆJ$71c9261d-2ed1-48b6-916e-5dd0ae7142b0
+’
+java:S1450š"VRemove the "btnAfm2" field and declare it as a local variable in the relevant methods.(º	J$16997773-3512-4c69-9637-5b6f68eee4b5
+—
+java:S1450›"URemove the "btnD11" field and declare it as a local variable in the relevant methods.(î­®¾ûÿÿÿÿJ$815dad57-eeac-46c7-b5bc-cdaaa5885896
+™
+java:S1450œ"WRemove the "btnEXous" field and declare it as a local variable in the relevant methods.(ş…Û®úÿÿÿÿJ$6de9dbba-7192-48af-8668-ecd00ba276e0
+”
+java:S1450"WRemove the "btnEsend" field and declare it as a local variable in the relevant methods.(åÊJ$5d5bbe97-27b6-4d90-8011-99b4af35c76a
+˜
+java:S1450"VRemove the "btnLoad" field and declare it as a local variable in the relevant methods.(ÎÃåÿúÿÿÿÿJ$17f5af68-a6bf-49d0-a55b-2e109800e327
+š
+java:S1450Ÿ"XRemove the "btnMydata" field and declare it as a local variable in the relevant methods.(ê¾Š³ûÿÿÿÿJ$a395deac-a431-45c4-b80c-47ce231df0be
+”
+java:S1450 "WRemove the "btnMypos" field and declare it as a local variable in the relevant methods.(Ãˆ…ÙJ$fc9d5075-7197-45a7-9788-53923252890b
+œ
+java:S1450¡"_Remove the "btnMyposRefister" field and declare it as a local variable in the relevant methods.(ÖÊ—¬J$d29c831f-93ea-43e9-8261-c2a84a5cc10e
+˜
+java:S1450¢"VRemove the "btnSave" field and declare it as a local variable in the relevant methods.(ı¨¿¸üÿÿÿÿJ$708d97b2-5e08-409e-853c-6a00471079ad
+
+java:S1450¤"\Remove the "btnSimplyCash" field and declare it as a local variable in the relevant methods.(ê¡ºøúÿÿÿÿJ$dcfd9977-a374-493e-9286-5d715feeeb5f
+¡
+java:S1450¥"dRemove the "btnSimplyCashRegister" field and declare it as a local variable in the relevant methods.(ÈÙÍ²J$2091f6b9-38f7-41ec-b5b1-264f936f76a5
+˜
+java:S1450¦"[Remove the "btnSimplyPos" field and declare it as a local variable in the relevant methods.(Á™ê¬J$96c26c75-a7cb-43a1-8512-14f68fefab4d
+¢
+java:S1450§"`Remove the "btnSimplyRegister" field and declare it as a local variable in the relevant methods.(æóñ‡øÿÿÿÿJ$434d6ba4-5c15-4189-8d96-8521e5d66933
+˜
+java:S1450¨"VRemove the "btnSync" field and declare it as a local variable in the relevant methods.(«´ÿÿÿÿÿJ$8452375b-116c-4b9a-b7ce-df50ccbdf302
+˜
+java:S1450©"[Remove the "btnTameiakes" field and declare it as a local variable in the relevant methods.(“éöÒJ$785d0b1a-d6f2-4cc8-8e16-07d4bef7cbf9
+œ
+java:S1450ª"ZRemove the "btnTaxisnet" field and declare it as a local variable in the relevant methods.(¤›ËøüÿÿÿÿJ$2ca89701-8ed9-4c7d-8a84-18d183fd5c48
+
+java:S1450«"[Remove the "buttonGroup1" field and declare it as a local variable in the relevant methods.(ïÔúØÿÿÿÿÿJ$4f4d5c80-2b08-4a13-8902-a26f2d7b3523
+˜
+java:S1450¬"VRemove the "jLabel1" field and declare it as a local variable in the relevant methods.(°ãÉ¸ÿÿÿÿÿJ$fc0fba23-3428-45de-820c-1545e44b44b9
+˜
+java:S1450­"VRemove the "jLabel2" field and declare it as a local variable in the relevant methods.(™úòˆüÿÿÿÿJ$4df6369d-e1f1-4629-bbd8-a1c317f6ad14
+˜
+java:S1450®"VRemove the "jLabel3" field and declare it as a local variable in the relevant methods.(Îä€øÿÿÿÿJ$e780a95b-6d79-44fd-968f-60d48338bf5f
+“
+java:S1450¯"VRemove the "jLabel4" field and declare it as a local variable in the relevant methods.(«¢•ãJ$5a7f6ede-3824-4a94-960f-80bbc00426b9
+“
+java:S1450°"VRemove the "jLabel5" field and declare it as a local variable in the relevant methods.(ó Ù®J$8c2fb80c-8f69-48ef-afc6-d08e8806185d
+˜
+java:S1450±"VRemove the "jPanel1" field and declare it as a local variable in the relevant methods.(´œ½ÿÿÿÿÿJ$72043ddd-d195-49a2-987f-80314d10cb5d
+˜
+java:S1450²"VRemove the "jPanel2" field and declare it as a local variable in the relevant methods.(õ òçüÿÿÿÿJ$c0e7389f-76d0-479f-81ed-1dead5afd432
+
+java:S1450³"[Remove the "jScrollPane1" field and declare it as a local variable in the relevant methods.(¤á×ÿÿÿÿÿJ$468b1b4a-cce2-4fbd-8953-a24109706b7e
+
+java:S1450´"[Remove the "jScrollPane2" field and declare it as a local variable in the relevant methods.(ŠÌ«·şÿÿÿÿJ$1e85d5da-4b37-4d1c-94d1-686e2ec615ff
+”
+java:S1450·"WRemove the "rbChrome" field and declare it as a local variable in the relevant methods.(•™—J$df238d87-02f2-47e0-a42e-7e4fbcd38469
+f
+java:S1948%"%Make "con" transient or serializable.(úú–ùşÿÿÿÿJ$57810615-cd75-43ed-bdca-25a320c480ff
+g
+java:S1948&"&Make "stmt" transient or serializable.(½ÍÎáüÿÿÿÿJ$1cb04a01-aaf9-46a8-96f5-8ac39de1f57c
+`
+java:S1948'"$Make "rs" transient or serializable.(¶¨ÜŒJ$b29e0adf-e606-494c-b55c-a6ac0e8ee611
+{
+java:S1161":Add the "@Override" annotation above this method signature(ÍŸÏ†ùÿÿÿÿJ$e395c3ff-73ee-4e17-b6f8-e0c646136088
+w
+java:S1161ˆ":Add the "@Override" annotation above this method signature(†ŒË³J$09478186-3323-4d5a-b5c8-453fa8e34bb5
+|
+java:S1161£":Add the "@Override" annotation above this method signature(óÚ°ùÿÿÿÿJ$4d72411f-1e1f-4911-92cb-752bdb47f3d7
+w
+java:S1161ó":Add the "@Override" annotation above this method signature(†ŒË³J$2a789ca0-2895-4ca8-a2e5-6288d8230e01
+w
+java:S1161ˆ":Add the "@Override" annotation above this method signature(†ŒË³J$17ac2929-9201-4ec8-be40-18bb5fa60dbc
+w
+java:S1161 ":Add the "@Override" annotation above this method signature(†ŒË³J$006bd260-7070-4f00-a54d-b19f6bc96d61
+w
+java:S1161¨":Add the "@Override" annotation above this method signature(†ŒË³J$28bcbd3f-fd9c-434d-b2da-c79fd5c81536
+w
+java:S1161°":Add the "@Override" annotation above this method signature(†ŒË³J$9157d33e-1504-49dc-ab30-b3a1e8c50d6b
+w
+java:S1161¹":Add the "@Override" annotation above this method signature(†ŒË³J$bb3a8e06-05db-441a-b287-16cf0e1f8940
+w
+java:S1161Á":Add the "@Override" annotation above this method signature(†ŒË³J$468f2bd5-9c96-48ed-8479-603909f85366
+w
+java:S1161É":Add the "@Override" annotation above this method signature(†ŒË³J$c89ed286-be88-4bdd-abd4-90c5efe8b646
+w
+java:S1161é":Add the "@Override" annotation above this method signature(†ŒË³J$ec084164-977f-43cf-b6e8-780c40459ece
+w
+java:S1161‘":Add the "@Override" annotation above this method signature(†ŒË³J$65ac902a-75c9-4a3d-9893-053b55ef2fff
+l
+java:S1172ö"*Remove this unused method parameter "evt".(Éã§‘ÿÿÿÿÿJ$46a9f628-ef19-4b4a-9b2a-f8520727dfb4
+}	java:S125ş"<This block of commented-out lines of code should be removed.(Œ•“úıÿÿÿÿJ$6158b1af-2653-443f-8b8a-dbeeff514dc4
+g
+java:S1172‚"*Remove this unused method parameter "evt".(” ââJ$bfe8597c-2fc3-41f1-964f-c858a1d534c8
+o
+java:S4925…"-Remove this "Class.forName()", it is useless.(ìè©‡úÿÿÿÿJ$1b1c71f3-b26b-4876-bb84-2204fb2b46d7
+}	java:S125Œ"<This block of commented-out lines of code should be removed.(Àó·úÿÿÿÿJ$c6be123e-bec5-4be8-bcf8-03e0cc1ebcd9
+t
+java:S6126"2Replace this String concatenation with Text block.(õ§àƒúÿÿÿÿJ$a381e146-fba0-4c40-b902-75df69ee4d33
+g	java:S106£"+Replace this use of System.out by a logger.(¨ÔÇJ$c98db98a-4f06-4333-a34e-8e1ba4481b84
+e	java:S108­")Either remove or fill this block of code.(É®£J$acff653a-c4db-4ddc-8d71-49c666bf1a05
+e	java:S108³")Either remove or fill this block of code.(É®£J$96712c11-5ad4-47ef-8328-8ca5a5ecdbd4
+e	java:S108¹")Either remove or fill this block of code.(É®£J$173ba75f-596c-4f2b-8cc0-053d77aa6a22
+l
+java:S1172¿"*Remove this unused method parameter "evt".(–Ç¬·ûÿÿÿÿJ$6761a0c6-99da-4c48-86e6-e289fac13758
+t
+java:S1135À"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿJ$1160ccad-74fa-44ed-b4aa-a6b287112a8d
+o
+java:S4925Æ"-Remove this "Class.forName()", it is useless.(ìè©‡úÿÿÿÿJ$5f22d18e-4746-48fe-804d-a2100bb04684
+}	java:S125Í"<This block of commented-out lines of code should be removed.(Àó·úÿÿÿÿJ$c7c6e4ee-9e6e-48b0-a6ca-72fb459b1db5
+a
+java:S6905Î"Don't use the query "SELECT *".(õ âµûÿÿÿÿJ$08ed71cb-7f1e-4a49-acf6-78fe98e68c27
+e	java:S108è")Either remove or fill this block of code.(É®£J$d23221b5-c380-4bcb-9d9c-104f811df68d
+e	java:S108î")Either remove or fill this block of code.(É®£J$1be82ddc-6301-4adb-8b73-b1bc6727baeb
+e	java:S108ô")Either remove or fill this block of code.(É®£J$7519dd52-9aad-4b42-b51f-f1c1567149db
+l
+java:S1172û"*Remove this unused method parameter "evt".(ª«Í ùÿÿÿÿJ$563b3dd8-76eb-4765-bba3-4f85f16cce3e
+t
+java:S1135ü"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿJ$2d8e0f7e-5af4-4723-9a4c-2a9a1da94f31
+l	java:S106†"+Replace this use of System.out by a logger.(òÈ¸ûÿÿÿÿJ$adab22b8-0a80-47fd-a500-102f5dca5467
+o
+java:S4925‰"-Remove this "Class.forName()", it is useless.(ìè©‡úÿÿÿÿJ$44b8c6a0-e2c2-4be1-8677-0897396eed6b
+g	java:S106"+Replace this use of System.out by a logger.(ŠğšJ$9ec458aa-40e1-4d64-b93e-c941ff5ba964
+t
+java:S1135¥"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿJ$7abe6111-6207-4364-aff9-7d54e5fcedad
+g	java:S106¨"+Replace this use of System.out by a logger.(÷Ê¡ĞJ$82e8f9f0-947d-49ff-a53f-0d7dcee10a95
+g
+java:S1172±"*Remove this unused method parameter "evt".(Ÿ¿‰¦J$6ea3d4db-aa7a-4dd4-ae11-7ea6a5704d23
+t
+java:S1135²"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿJ$18eaad0b-8cbd-425b-b264-9907ec921e74
+l
+java:S1172Ê"*Remove this unused method parameter "evt".(¨¬¨‚øÿÿÿÿJ$90cb3626-52ca-47be-bcac-1c21c5d795e1
+x	java:S125Ì"<This block of commented-out lines of code should be removed.(íÚÚåJ$27908c20-d12e-4d48-ab9b-69f62d280382
+t
+java:S1135Ë"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿJ$c122cf6d-30fa-4844-b269-7aca5a9f00a0
+t
+java:S1135ã"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿJ$939c1699-0b75-4259-9d32-823eee17c071
+t
+java:S1135í"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿJ$6279583a-5348-46b8-ba47-ac1c0867e1e3
+t
+java:S1135÷"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿJ$53dd6aeb-bcde-4fbf-aaf3-bea35e83dbf7
+t
+java:S1135"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿJ$829585e6-5d28-4641-a178-caf6ac8841a3
+t
+java:S1135‹"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿJ$a1d80b17-133b-41d5-b313-4aaa4b75ff15
+t
+java:S1135•"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿJ$01c84d4f-d4fa-4fae-b7aa-828303a76238
+l
+java:S1172"*Remove this unused method parameter "evt".(åÓ´øÿÿÿÿJ$b3f414a5-d785-457c-a3a6-115665cedb4e
+t
+java:S1135Ÿ"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿJ$2908f33a-f2b0-4dbe-bfaf-1cece448528e
+}	java:S125¸"<This block of commented-out lines of code should be removed.(î½Ü‚ÿÿÿÿÿJ$4517250d-c6ba-45d4-96f9-1d9eda4e226d
+l
+java:S1172¼"*Remove this unused method parameter "evt".(Ç­ô˜ùÿÿÿÿJ$fe4b3ec1-029f-464b-a91e-1bfa15ffff5d
+t
+java:S1135½"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿJ$13c31c5b-c0b3-49bd-afec-7c4f2b71fc06
+}	java:S125Õ"<This block of commented-out lines of code should be removed.(î½Ü‚ÿÿÿÿÿJ$d3a90a1c-6a0f-4e57-b505-7ac9100fef08
+t
+java:S1135Ù"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿJ$44de4665-e391-4f8e-89a1-41f79ce83598
+l
+java:S1172â"*Remove this unused method parameter "evt".(í¦ÅËÿÿÿÿÿJ$c3389727-6a99-44c1-87c6-4eef94f17198
+}	java:S125ù"<This block of commented-out lines of code should be removed.(î½Ü‚ÿÿÿÿÿJ$3be838b3-3add-4924-a80d-e032b510e16e
+~
+java:S1854ÿ"<Remove this useless assignment to local variable "password".(ØµîÙúÿÿÿÿJ$2a352c03-0eda-4538-9dac-5a164d63f9d5
+~
+java:S1854ş"<Remove this useless assignment to local variable "username".(¼Ü§ıÿÿÿÿJ$aa9c4b29-6f54-4a49-a81f-745cd7f5af0a
+l
+java:S1172ü"*Remove this unused method parameter "evt".(™‚¥ÀıÿÿÿÿJ$99be7daa-bd7e-48a9-9d51-0a64f33c69b1
+t
+java:S1135ı"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿJ$43e4e83e-6ff8-426a-b573-6614d0356b1b
+o
+java:S1481ş"-Remove this unused "username" local variable.(¼Ü§ıÿÿÿÿJ$b291df1d-81ce-4e80-965b-3a5a1eddc035
+o
+java:S1481ÿ"-Remove this unused "password" local variable.(ØµîÙúÿÿÿÿJ$ab5ced6f-a9fc-4b64-91c1-a5c82911c0fa
+g
+java:S1172"*Remove this unused method parameter "evt".(ÕšÖöJ$f473fc90-36c0-463b-b36a-f1307484ba0b
+t
+java:S1135‘"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿJ$5cbb327d-c067-4552-bde8-83f616ae8719
+g
+java:S1172”"*Remove this unused method parameter "evt".(ùîÚJ$7ec93351-16b1-4c2f-b4ca-80639be4da56
+x	java:S125—"<This block of commented-out lines of code should be removed.(íÚÚåJ$f6135361-b837-4761-9075-8c79597918ae
+t
+java:S1135•"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿJ$51e1f971-da32-4ae6-8e76-512337cd9a6c
+t
+java:S1135–"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿJ$d4b65942-31b4-4aa1-a070-97f6aa43c9cb
+l
+java:S1172­"*Remove this unused method parameter "evt".(‚ßÜ şÿÿÿÿJ$d4f4d943-b73f-4469-9817-66c42a47c82f
+t
+java:S1135®"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿJ$eaf5529c-8e26-4143-9254-5e83285e0424
+}	java:S125Ç"<This block of commented-out lines of code should be removed.(î½Ü‚ÿÿÿÿÿJ$ac7434ef-0591-4051-a83f-53ff62dba0c2
+g
+java:S1172Ê"*Remove this unused method parameter "evt".(¼ºÄ¤J$da3d9f82-b54c-4d9f-9c02-e08e8b0ed586
+t
+java:S1135Ë"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿJ$963c6e95-167b-44ad-95c9-c86c387d36a7
+t
+java:S1135Ì"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿJ$5c1f2d9b-820e-4ca1-9d8e-f5246dd82cac
+}	java:S125ä"<This block of commented-out lines of code should be removed.(î½Ü‚ÿÿÿÿÿJ$48953d14-e494-4a96-a289-461d5573af4d
+l
+java:S1172ç"*Remove this unused method parameter "evt".(çªÿÜşÿÿÿÿJ$b5bda62b-8561-4c10-b92b-484715f0e3f3
+t
+java:S1135è"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿJ$6042eca9-6705-4b0b-9102-b93eb9c9bb0a
+l
+java:S1172	"*Remove this unused method parameter "evt".(êÔøñüÿÿÿÿJ$20931eeb-6ad8-4ed4-b05e-8be7fb103db4
+t
+java:S1135‚	"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿJ$0828b879-12d0-487e-bf4d-2617a09b2aba
+g
+java:S1172›	"*Remove this unused method parameter "evt".(Ø©¬J$b58324dd-ef00-4535-b52b-bb66f80d6411
+t
+java:S1135œ	"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿJ$4ea81e08-1d6a-4b7e-ab2c-cf18d0d3f36f
+l
+java:S1172´	"*Remove this unused method parameter "evt".(½×ÊùûÿÿÿÿJ$4121fc0b-c4d9-4a95-94ea-7fe657aeb36e
+t
+java:S1135µ	"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿJ$7db0a841-89ca-4148-9700-d9137b54fc62
+g
+java:S1172Í	"*Remove this unused method parameter "evt".(Ÿ£·ÚJ$d421a378-ac7f-4b90-b790-39062af388b7
+t
+java:S1135Î	"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿJ$59ece57b-7e1e-42c9-bc05-931cab04a81b
+g
+java:S1172Ñ	"*Remove this unused method parameter "evt".(ì®à×J$2dbcd815-5b34-49fe-8ae3-5b71b16ad6f5
+t
+java:S1135Ò	"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿJ$ffcddbc0-4182-4b03-b844-a90cda0faaec
+g
+java:S1172Ö	"*Remove this unused method parameter "evt".(å¸ÖÉJ$bb6aa930-0d83-4043-b4f5-479fe17002d8
+t
+java:S1135×	"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿJ$98a8802b-2113-4c56-8679-133213c6e8dd
+t
+java:S1135ï	"2Complete the task associated to this TODO comment.(ÜÀ†áûÿÿÿÿJ$f4b71924-9074-4a6d-8d43-0e0acd438261
+l	java:S106ñ	"+Replace this use of System.out by a logger.(Ï÷Í·úÿÿÿÿJ$9d2d1972-dde7-404f-a7bb-119786cf5752
+l
+java:S1197ƒ
+"*Move the array designators [] to the type.(¡şÏÖøÿÿÿÿJ$fa1b4db7-d8dc-493d-8dca-16ec8174e2a8
+ƒ
+java:S2147’
+"FCombine this catch with the one at line 1296, which has the same body.(¨¦Š½J$5dcb7282-5cab-425a-a2f7-aaf253872605
+ƒ
+java:S2147”
+"FCombine this catch with the one at line 1298, which has the same body.(ã€ J$0571d922-1b1c-498d-875e-36174e253123
+‚
+java:S2147–
+"FCombine this catch with the one at line 1300, which has the same body.(ñÎ¯%J$c74e8d7b-a55e-4b93-94ea-48cf4953facf
+o
+java:S4925³
+"-Remove this "Class.forName()", it is useless.(ìè©‡úÿÿÿÿJ$f1ae891b-437d-468b-96da-79fc23d28129
+}	java:S125º
+"<This block of commented-out lines of code should be removed.(Àó·úÿÿÿÿJ$42711042-4602-4516-b49a-cedd380266f7
+e	java:S108Ø
+")Either remove or fill this block of code.(É®£J$8c80ddae-5889-468f-9d7b-720b880c3f37
+e	java:S108Ş
+")Either remove or fill this block of code.(É®£J$e9b45134-aa15-4803-95d0-8d4005a12d87
+e	java:S108ä
+")Either remove or fill this block of code.(É®£J$4b9d779d-4618-4b77-a663-c2ecf3d74a31
