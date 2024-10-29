@@ -14,6 +14,7 @@ import java.sql.DriverManager;
 import java.sql.ResultSet;
 import java.sql.SQLException;
 import java.sql.Statement;
+import java.sql.PreparedStatement;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Map;
@@ -1296,36 +1297,46 @@ public class mainForm extends javax.swing.JFrame {
 
     private void btnSaveActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnSaveActionPerformed
         // TODO add your handling code here:
-        // Ανάκτηση των τιμών από τα textfields
-        String taxisUser = tfTaxisUser.getText();
-        String taxisPass = tfTaxisPass.getText();
-        String afmUser = tfAfmUser.getText();
-        String afmPass = tfAfmPass.getText();
-        String myposUser = tfMyposUser.getText();
-        String myposPass = tfMyposPass.getText();
-        String simplyUser = tfSimplyUser.getText();
-        String simplyPass = tfSimplyPass.getText();
-        String orderUser = tfOrderUser.getText();
-        String orderPass = tfOrderPass.getText();
+        // Ανάκτηση των τιμών από τα textfields και έλεγχος αν είναι κενά
+        String taxisUser = tfTaxisUser.getText().isEmpty() ? null : tfTaxisUser.getText();
+        String taxisPass = tfTaxisPass.getText().isEmpty() ? null : tfTaxisPass.getText();
+        String afmUser = tfAfmUser.getText().isEmpty() ? null : tfAfmUser.getText();
+        String afmPass = tfAfmPass.getText().isEmpty() ? null : tfAfmPass.getText();
+        String myposUser = tfMyposUser.getText().isEmpty() ? null : tfMyposUser.getText();
+        String myposPass = tfMyposPass.getText().isEmpty() ? null : tfMyposPass.getText();
+        String simplyUser = tfSimplyUser.getText().isEmpty() ? null : tfSimplyUser.getText();
+        String simplyPass = tfSimplyPass.getText().isEmpty() ? null : tfSimplyPass.getText();
+        String orderUser = tfOrderUser.getText().isEmpty() ? null : tfOrderUser.getText();
+        String orderPass = tfOrderPass.getText().isEmpty() ? null : tfOrderPass.getText();
 
         try {
-            // Δημιουργία του SQL ερωτήματος για την ενημέρωση
-            String query = "UPDATE customer "
-                    + "SET taxisuser='" + taxisUser + "', taxispass='" + taxisPass + "', "
-                    + "afmuser='" + afmUser + "', afmpass='" + afmPass + "', "
-                    + "myposuser='" + myposUser + "', mypospass='" + myposPass + "', "
-                    + "simplyuser='" + simplyUser + "', simplypass='" + simplyPass + "', "
-                    + "ORDERUSER='" + orderUser + "', ORDERPASS='" + orderPass + "' "
-                    + "WHERE kwd='" + kwd + "'";
-            stmt = con.createStatement();
+            // Δημιουργία του SQL ερωτήματος με χρήση PreparedStatement
+            String query = "UPDATE customer SET taxisuser=?, taxispass=?, afmuser=?, afmpass=?, "
+                         + "myposuser=?, mypospass=?, simplyuser=?, simplypass=?, ORDERUSER=?, ORDERPASS=? "
+                         + "WHERE kwd=?";
+            PreparedStatement pstmt = con.prepareStatement(query);
+
+            // Ορισμός των τιμών για κάθε πεδίο στο PreparedStatement
+            pstmt.setString(1, taxisUser);
+            pstmt.setString(2, taxisPass);
+            pstmt.setString(3, afmUser);
+            pstmt.setString(4, afmPass);
+            pstmt.setString(5, myposUser);
+            pstmt.setString(6, myposPass);
+            pstmt.setString(7, simplyUser);
+            pstmt.setString(8, simplyPass);
+            pstmt.setString(9, orderUser);
+            pstmt.setString(10, orderPass);
+            pstmt.setString(11, kwd);
 
             // Εκτέλεση του SQL ερωτήματος για την ενημέρωση
-            stmt.executeUpdate(query);
+            pstmt.executeUpdate();
 
             JOptionPane.showMessageDialog(null, "Επιτυχής ενημέρωση της βάσης δεδομένων.");
         } catch (SQLException ex) {
             JOptionPane.showMessageDialog(null, "Σφάλμα κατά την ενημέρωση της βάσης δεδομένων: " + ex.getMessage());
         }
+
     }//GEN-LAST:event_btnSaveActionPerformed
 
     private void btnTameiakesActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnTameiakesActionPerformed
