@@ -896,17 +896,18 @@ public class mainForm extends javax.swing.JFrame {
             System.out.println(query);
             rs = st.executeQuery(query);
             while (rs.next()) {
-                tfTaxisUser.setText(rs.getString("taxisuser").trim());
-                tfTaxisPass.setText(rs.getString("taxispass").trim());
-                tfAfmUser.setText(rs.getString("afmuser").trim());
-                tfAfmPass.setText(rs.getString("afmpass").trim());
-                tfMyposUser.setText(rs.getString("myposuser").trim());
-                tfMyposPass.setText(rs.getString("mypospass").trim());
-                tfSimplyUser.setText(rs.getString("simplyuser").trim());
-                tfSimplyPass.setText(rs.getString("simplypass").trim());
-                tfOrderUser.setText(rs.getString("orderuser").trim());
-                tfOrderPass.setText(rs.getString("orderpass").trim());
+                tfTaxisUser.setText(rs.getString("taxisuser") != null ? rs.getString("taxisuser").trim() : "");
+                tfTaxisPass.setText(rs.getString("taxispass") != null ? rs.getString("taxispass").trim() : "");
+                tfAfmUser.setText(rs.getString("afmuser") != null ? rs.getString("afmuser").trim() : "");
+                tfAfmPass.setText(rs.getString("afmpass") != null ? rs.getString("afmpass").trim() : "");
+                tfMyposUser.setText(rs.getString("myposuser") != null ? rs.getString("myposuser").trim() : "");
+                tfMyposPass.setText(rs.getString("mypospass") != null ? rs.getString("mypospass").trim() : "");
+                tfSimplyUser.setText(rs.getString("simplyuser") != null ? rs.getString("simplyuser").trim() : "");
+                tfSimplyPass.setText(rs.getString("simplypass") != null ? rs.getString("simplypass").trim() : "");
+                tfOrderUser.setText(rs.getString("orderuser") != null ? rs.getString("orderuser").trim() : "");
+                tfOrderPass.setText(rs.getString("orderpass") != null ? rs.getString("orderpass").trim() : "");
             }
+
             tbSearch.setAutoResizeMode(JTable.AUTO_RESIZE_ALL_COLUMNS);
         } catch (SQLException ex) {
             JOptionPane.showMessageDialog(null, ex);
